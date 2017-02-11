@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_dashboard"
@@ -9,16 +10,20 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@color/colorBackground"
-    tools:context="com.example.transfer.Dashboard">
+    tools:context="com.example.transfer.DashboardActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_alignParentTop="true"
-        android:background="@color/colorWhite"
         android:layout_alignParentStart="true"
         android:padding="10dp"
-        android:gravity="center">
+        android:gravity="center"
+        android:background="@color/colorWhite">
 
 
         <TextView
@@ -26,19 +31,19 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/article_name_textview"
-            android:textSize="30dp"
+            android:textSize="35dp"
             android:textColor="@color/colorBlack"
             android:layout_alignParentTop="true"
             android:layout_marginTop="10dp" />
 
         <EditText
             android:layout_width="match_parent"
-            android:layout_height="@dimen/activity_inputbox_height"
+            android:layout_height="50dp"
             android:layout_below="@id/article_name_textview"
             android:textColor="@color/colorBlack"
             android:inputType="textPersonName"
             android:hint="Article Number"
-            android:textSize="@dimen/activity_inputbox_textsize"
+            android:textSize="25dp"
             android:padding="10dp"
             android:id="@+id/article_number_input"
             android:background="@drawable/boxwithborder"
@@ -83,8 +88,7 @@
             android:orientation="vertical"
             android:id="@+id/location_view"
             android:layout_marginTop="10dp"
-            android:layout_below="@id/date_view"
-            android:weightSum="2">
+            android:layout_below="@id/date_view">
 
             <TextView
                 android:text="Location:"
@@ -98,30 +102,83 @@
             <Spinner
                 android:layout_marginTop="5dp"
                 android:layout_width="match_parent"
-                android:layout_height="40dp"
+                android:layout_height="50dp"
                 android:entries="@array/departments"
                 android:background="@drawable/boxwithborder"
                 android:id="@+id/spinner"
-                android:textSize="25dp"
+                android:textSize="25sp"
                 android:layout_gravity="right"/>
         </LinearLayout>
 
-
-        <Button
-            android:text="Done"
+        <LinearLayout
+            android:orientation="horizontal"
             android:layout_width="match_parent"
-            android:layout_height="@dimen/activity_button_height"
-            android:layout_marginTop="10dp"
-            android:textSize="@dimen/activity_button_textsize"
-            android:id="@+id/done_button"
+            android:layout_height="wrap_content"
             android:layout_below="@+id/location_view"
-            android:background="@color/colorAccent"
-            android:layout_centerHorizontal="true"
-            android:textColor="@color/colorWhite"
-            android:layout_marginBottom="10dp" />
+            android:id="@+id/count_view"
+            android:layout_marginTop="10dp"
+            android:weightSum="1.0">
 
+            <TextView
+                android:text="Count"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="25dp"
+                android:textColor="@color/colorBlack"
+                android:layout_gravity="left"
+                android:layout_weight="0.50"
+                android:gravity="left|center" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:textSize="25dp"
+                android:background="@drawable/boxwithborder"
+                android:hint="Count"
+                android:padding="10dp"
+                android:id="@+id/count_edit_view"
+                android:layout_weight=".5" />
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttons_view"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/count_view"
+            android:weightSum="1.0">
+
+            <Button
+                android:text="Log Out"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/activity_button_height"
+                android:textSize="@dimen/activity_button_textsize"
+                android:id="@+id/back_button"
+                android:layout_weight=".5"
+                android:background="@color/colorRed"
+                android:textColor="@color/colorWhite"
+                android:layout_marginRight="5dp"
+                android:onClick="signOutButton"/>
+
+            <Button
+                android:text="Done"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/activity_button_height"
+                android:textSize="@dimen/activity_button_textsize"
+                android:id="@+id/done_button"
+                android:layout_weight=".5"
+                android:background="@color/colorAccent"
+                android:textColor="@color/colorWhite"
+                android:layout_marginLeft="5dp"
+                android:onClick="submitButton"/>
+        </LinearLayout>
 
     </RelativeLayout>
-
+    </ScrollView>
 
 </RelativeLayout>
