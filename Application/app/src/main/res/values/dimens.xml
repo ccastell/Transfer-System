@@ -10,4 +10,5 @@
     <dimen name="main_button_width">250dp</dimen>
     <dimen name="activity_button_height">40dp</dimen>
     <dimen name="activity_button_textsize">20dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 </resources>

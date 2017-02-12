@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     /** Called when the user clicks the singIn button */
     public void signInButton(View view) {
-        Intent intent = new Intent(this, DashboardActivity.class);
+        Intent intent = new Intent(this, ReadNumberActivity.class);
         startActivity(intent);
     }
 }

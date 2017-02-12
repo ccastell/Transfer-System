@@ -18,8 +18,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DashboardActivity"
-            android:windowSoftInputMode="adjustResize|stateHidden"></activity>
+            android:name=".ReadNumberActivity"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name=".ProcessTransferActivity"
+            android:windowSoftInputMode="adjustResize|stateHidden"/>
     </application>
 
 </manifest>
