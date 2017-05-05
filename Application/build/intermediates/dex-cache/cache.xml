@@ -3,156 +3,156 @@
 
     <item
         is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jar="/home/carlcastello/.android/build-cache/3dd382c64a867430570bebffb8524ece1ccdd456/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_9c4da59e77f831b3ce91fda997b5d0a4094916e2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_5c3b654737204d1962e67f9bbf6e0c8feee56fbd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0bc841fbec13556af6962de493314dfe8172440d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Carl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_6f23d7b2895700d691f688e9205235f46ab61b2e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_fc53e633064a3dc1fc88ea29315fdfe0afaab77a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b9c840147b4fbc7c0c7bc840d34756ee2355ec80.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_b8cd9ce5f8879f5fda77c7449246db00555f4d36.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8b661ce81e61991a900d91356d7e9d482a250b0e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_96791e05a4f7914324788669b70997a7713a776b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_0ccbfadce9dbf41441877d598b1388f20e6dc412.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_ee0d2f0fb59a055f3168f3015c866cccb7e92baf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_f98354bdca28437604c015bb113b23d977c4fea1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7455522252521ef742578f69d6b94c75f8f5bb35.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_41e7d233fbed357165e8793ff2c136c0eb9ce0df.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_114f676b0bf2cff4f8d035deaa6b3da2df5c5726.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_ee27403185abb625fc686e9671bf68f6590d914a.jar" />
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_a0dca23ac9cc6f91402cd5b27fa14274e80fca91.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jar="/home/carlcastello/.android/build-cache/8961b6ea0d3b5932d0231fcfc33bec507122de61/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_2ec787c5d721d50ab32a4dfdda4944d9bad75a12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/2cbf279836c3fd7709c4bdb57c49918b9f9e8f9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_7d181089dfd504ea93e4592ba91e6913661659e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/900b2285d3c854906a20360239f0bbb0b33f49e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="D:\Users\Carl\Documents\Transfer-System\Application\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_7927f07623edf9fd28e3d1d488c5943414377efe.jar" />
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_83a728874374c2c8b7429fb1f9d5ef55b9561084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/686132510590501e4b9f1d92ac3e712c7f636a2e/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_57e0bf6e6ac31f39946651e6b138f3ea085bc567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/8961b6ea0d3b5932d0231fcfc33bec507122de61/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5b6dc37328d0136d16db83633d4dfd4fcd8ca7a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/dcc3645f3f9ef640d78e3c20aa0765ed1bdbfdef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_283c0746a95712d6eeb017563a2c62ea3d077ce4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/1c5d649556e7c9d004289fab9498913c3acd0a45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_5c98da96b90d552e31ff2ed087c7244bd1a02330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/f280731347a36ba7db424a4debccf1eaaa353eb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_8a1e69b9b1d4957622b4f4c6e18380896f1f45b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/f280731347a36ba7db424a4debccf1eaaa353eb0/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_52af88b7389f8c76789dd60fe445e7ef756094d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/be29cf77896b91c3bcf821e0bf46471cb68fee44/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9de9bc90700ade8fd46eb6b2332bea8292d0ddaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/18167a50eb51e7b34bbbe8604046d12300686814/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_15ca0ed23c355f6d05573e4588adb3fc0f4adc2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/be29cf77896b91c3bcf821e0bf46471cb68fee44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_8ca4c075c08970e916b161fc585faba63f482a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/4a42293b640d3901d61a782d4a216f7952dae60b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_399380e4b051d2154f69cab1ea1f2b60cbceef01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/686132510590501e4b9f1d92ac3e712c7f636a2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/classes_f186166474d7cc50c47256ac034062518e3f0a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/.android/build-cache/2cbf279836c3fd7709c4bdb57c49918b9f9e8f9d/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_171fd3520aad7ee29e97a4856c08d280aff62008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlcastello/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/carlcastello/Desktop/SummerApp/Transfer-System/Application/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_74847a39a3f0e239e006a2b61c5f62372c3e81b5.jar" />
     </item>
 
 </items>
